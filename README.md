@@ -1,4 +1,4 @@
-Java program to simulate different processer secheduling algorithms for a uniprocessor and outputs a gantt chart of the processes akong with the wait time and turnaround times.
+Java program to simulate different processer secheduling algorithms for a uniprocessor. Outputs a gantt chart of the processes akong with the wait time and turnaround times.
 
 Input file is schedule.dat
 
